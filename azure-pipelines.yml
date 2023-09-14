@@ -1,4 +1,3 @@
-# Maven
 - task: Maven@4
   inputs:
     mavenPomFile: 'pom.xml'
